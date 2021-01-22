@@ -1,5 +1,5 @@
 /*
-    author：郭丹琪 2018202067
+    author：2018202067
 */
 #include <iostream>
 #include <algorithm>
